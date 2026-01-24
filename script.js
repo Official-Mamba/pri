@@ -1,7 +1,7 @@
 
 
 
-//alert("Click On Sreen");
+alert("Click On Sreen");
 
 
 // Twinkle overlay: creates stars across the full screen
